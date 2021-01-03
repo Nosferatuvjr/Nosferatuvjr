@@ -9,7 +9,7 @@
 
 ### About me
 
-Desenvolvedor Back-End e Front-End. Muitos dos conhecimentos adquiri sendo o curioso da Internet. Mas me profissionalizei estudando na Danki.Code e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Desenvolvedor Back-End e Front-End. Muitos dos conhecimentos adquiri sendo o curioso da Internet, autodidata. Mas me profissionalizei estudando na Danki.Code e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 ## Minhas skills e o que estou estudando?
 
