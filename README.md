@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1997vjr/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5592996041179&text=Oi%2C%20vim%20pelo%20teu%20perfil%20no%20Github.)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jbTZW8Wa)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22ely24chjvpjxndfw2abmata?si=V5wCz4zmQ7iQA2QR1hiwDA)
 
 ### About me
 
