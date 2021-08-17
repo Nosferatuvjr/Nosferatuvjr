@@ -22,7 +22,6 @@ Desenvolvedor Back-End e Front-End, estusiasta da Segurança da Informação. Mu
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 
 ## Meu Website
 - [Website](https://amazonasdev.com) 💻 - Working on it.
