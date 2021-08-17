@@ -19,9 +19,10 @@ Desenvolvedor Back-End e Front-End. Muitos dos conhecimentos adquiri sendo o cur
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 
 ## Meu Website
 - [Website](https://amazonasdev.com) 💻 - Working on it.
