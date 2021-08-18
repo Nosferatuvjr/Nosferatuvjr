@@ -7,6 +7,8 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RgBAcVYjRv)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22ely24chjvpjxndfw2abmata?si=V5wCz4zmQ7iQA2QR1hiwDA)
 
+https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif
+
 ### About me
 
 Desenvolvedor Back-End e Front-End, estusiasta da Segurança da Informação. Muitos dos conhecimentos adquiri sendo o curioso da Internet, autodidata. Acabei estudando na Danki.Code e na Udemy e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
