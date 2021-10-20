@@ -15,7 +15,7 @@
 
 ### About me
 
-Desenvolvedor Back-End e Front-End, estusiasta da Segurança da Informação. Muitos dos conhecimentos adquiri sendo o curioso da Internet, autodidata. Acabei estudando na Danki.Code e na Udemy e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Desenvolvedor Backend e Frontend (sendo bem sincero sou melhor com backend 😂), estusiasta da Segurança da Informação. Muitos dos conhecimentos adquiri sendo o curioso da Internet, autodidata. Acabei estudando na Danki.Code e na Udemy e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 ## Minhas skills e o que estou estudando?
 
