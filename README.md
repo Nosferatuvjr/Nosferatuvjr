@@ -11,7 +11,7 @@
 
 - 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript**
 
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
