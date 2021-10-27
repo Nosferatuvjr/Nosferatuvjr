@@ -1,33 +1,58 @@
-## Hi, I'm Vivaldo Chagas! :D
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nosferatuvjr)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaldochagassjr@gmail.com/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1997vjr/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5592996041179&text=Oi%2C%20vim%20pelo%20teu%20perfil%20no%20Github.)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RgBAcVYjRv)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22ely24chjvpjxndfw2abmata?si=V5wCz4zmQ7iQA2QR1hiwDA)
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Nosferatuvjr/de10980de272da876ab1e436a3c60fb7/raw/ccb6db52c5bdf77e5b46a05092760f05222961cf/githubcard.svg"/>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vivaldo Chagas! :D</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="300" src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" />
-  </a>
+- 🔥 Desenvolvedor backend e frontend (Sinceramente mais frontend do que backend 😏).
+
+- 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://github.com/Amazonas-Desenvolvimento)
+
+- ▶️ Amante da música e da programação [Youtube](https://youtu.be/ykURWvAo6Eg)
+
+- 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosferatuvjr&layout=compact&theme=vision-friendly-dark" alt="Nosferatuvjr's most languages"/>
 </p>
 
-### About me
 
-Desenvolvedor Backend e Frontend (sendo bem sincero sou melhor com backend 😂), estusiasta da Segurança da Informação. Muitos dos conhecimentos adquiri sendo o curioso da Internet, autodidata. Acabei estudando na Danki.Code e na Udemy e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+## 👨🏽‍🦲 &nbsp;Social Links
 
-## Minhas skills e o que estou estudando?
+<p align="left" style="background:yellow">
+<a href="https://www.facebook.com/jr.vivaldo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=facebook" alt="codepen"/>
+</a>
+<a href="https://twitter.com/nosferatuvjr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/vivaldo-chagas-5945381b3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/1997vjr" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UClD9lHhfSt-QYBUwKA8-Y6Q" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=devscansados&layout=wide&show_reply=off&show_retweet=off" />
 
-## Meu Website
-- [Website](https://amazonasdev.com) 💻 - Working on it.
