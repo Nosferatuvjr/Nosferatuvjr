@@ -13,7 +13,6 @@
 
 - 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript**
 
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,7 +26,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
