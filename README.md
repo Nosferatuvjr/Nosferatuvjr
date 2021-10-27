@@ -48,10 +48,10 @@
   <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/1997vjr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-1997vjr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="youtu.be/waAlgFq9Xq8" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-Musiquinha-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
