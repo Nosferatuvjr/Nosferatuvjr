@@ -7,7 +7,7 @@
 
 - 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://github.com/Amazonas-Desenvolvimento)
 
-- ▶️ Amante da música e da programação [Youtube](https://youtu.be/ykURWvAo6Eg)
+- ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
 
 - 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript**
 
@@ -49,7 +49,7 @@
 <a href="https://instagram.com/1997vjr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/channel/UClD9lHhfSt-QYBUwKA8-Y6Q" target="_blank">
+<a href="youtu.be/waAlgFq9Xq8" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
