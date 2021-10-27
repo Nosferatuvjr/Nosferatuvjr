@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Nosferatuvjr/de10980de272da876ab1e436a3c60fb7/raw/ccb6db52c5bdf77e5b46a05092760f05222961cf/githubcard.svg"/>
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vivaldo Chagas! :D</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nosferatuvjr&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor backend e frontend (Sinceramente mais frontend do que backend 😏).
 
