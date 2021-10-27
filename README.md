@@ -5,7 +5,9 @@
 
 - 🔥 Desenvolvedor backend e frontend (Sinceramente mais frontend do que backend 😏).
 
-- 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://github.com/Amazonas-Desenvolvimento)
+- 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://amazonasdev.com/)
+
+- 📬 Assina nossa Newsletter 😳 [Newsletter](newsamdev.vercel.app)
 
 - ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
 
