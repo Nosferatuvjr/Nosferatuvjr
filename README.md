@@ -6,8 +6,6 @@
 
 - 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://amazonasdev.com/)
 
-[comment]:<>(-📬AssinanossaNewsletter😳[Newsletter](newsamdev.vercel.app)
-
 - ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
 
 - 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript**
