@@ -6,7 +6,7 @@
 
 - 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://amazonasdev.com/)
 
-[comment]: <> ( - 📬 Assina nossa Newsletter 😳 [Newsletter](newsamdev.vercel.app)
+[comment]:<>(-📬AssinanossaNewsletter😳[Newsletter](newsamdev.vercel.app)
 
 - ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
 
