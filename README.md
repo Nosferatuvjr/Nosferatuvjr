@@ -4,6 +4,8 @@
 
 - 🔥 Desenvolvedor backend e frontend (Sinceramente mais backend do que frontend 😏).
 
+- 📌 Pentester e Bug hunter
+
 - 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://amazonasdev.com/)
 
 - ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
