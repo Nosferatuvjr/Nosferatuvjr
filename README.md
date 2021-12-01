@@ -2,15 +2,15 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vivaldo Chagas! :D</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nosferatuvjr&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor backend e frontend (Sinceramente mais backend do que frontend 😏).
+- 🔥 Backend and frontend developer (Honestly more backend than frontend 😏).
 
-- 📌 Pentester e Bug hunter
+- 📌 Pentester & Bug hunter
 
-- 💻 Trabalhando atualmente em [Amazonas Desenvolvimento](https://amazonasdev.com/)
+- 💻 Currently working in [Amazonas Desenvolvimento](https://amazonasdev.com/)
 
-- ▶️ Amante da música e da programação [Youtube](youtu.be/waAlgFq9Xq8)
+- ▶️ Lover of music and programming [Youtube](youtu.be/waAlgFq9Xq8)
 
-- 💬 Converse comigo sobre **JavaScript, Nodejs, Reactjs, TypeScript, PHP, Ruby**
+- 💬 Talk to me about **JavaScript, Nodejs, Reactjs, TypeScript, PHP, Ruby**
 
 <br>
 
