@@ -31,11 +31,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
-</p>
-<p align="right">
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosferatuvjr&layout=compact&theme=vision-friendly-dark" alt="Nosferatuvjr's most languages"/>
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosferatuvjr&layout=compact&theme=vision-friendly-dark" alt="Nosferatuvjr's most languages"/>
 </p>
 
 
