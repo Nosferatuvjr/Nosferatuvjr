@@ -46,10 +46,10 @@
 <a href="https://twitter.com/nosferatuvjr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/vivaldo-chagas-5945381b3/" target="_blank">
+<a href="https://www.linkedin.com/in/vivald0x6f" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/1997vjr" target="_blank">
+<a href="https://instagram.com/vivald0x6f" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-1997vjr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="youtu.be/waAlgFq9Xq8" target="_blank">
