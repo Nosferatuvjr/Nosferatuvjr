@@ -20,6 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
 ![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=Python)&nbsp;
