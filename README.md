@@ -6,11 +6,7 @@
 
 - 📌 Pentester & Bug hunter
 
-- 💻 Currently working in [Amazonas Desenvolvimento](https://amazonasdev.com/)
-
-- ▶️ Lover of music and programming [Youtube](youtu.be/waAlgFq9Xq8)
-
-- 💬 Talk to me about **JavaScript, Nodejs, Reactjs, TypeScript, PHP, Ruby**
+<img src="https://cdn.discordapp.com/attachments/795494683593277443/946591157549416448/98810307-0a5ad380-2445-11eb-88a5-126ec1c877b1.gif" width="500px" align="center" alt=":v" />
 
 <br>
 
@@ -34,7 +30,6 @@
 
 <p align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosferatuvjr&layout=compact&theme=vision-friendly-dark" alt="Nosferatuvjr's most languages"/>
 </p>
 
 
