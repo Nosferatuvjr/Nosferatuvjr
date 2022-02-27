@@ -6,7 +6,7 @@
 
 - 📌 Pentester & Bug hunter
 
-<img src="https://cdn.discordapp.com/attachments/795494683593277443/946591157549416448/98810307-0a5ad380-2445-11eb-88a5-126ec1c877b1.gif" width="500px" align="center" alt=":v" />
+<img src="https://cdn.discordapp.com/attachments/795494683593277443/946591157549416448/98810307-0a5ad380-2445-11eb-88a5-126ec1c877b1.gif" width="500em" alt=":v" />
 
 <br>
 
