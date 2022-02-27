@@ -8,28 +8,25 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/795494683593277443/946591157549416448/98810307-0a5ad380-2445-11eb-88a5-126ec1c877b1.gif"alt=":v" />
 </p>
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
-![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=Python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
+  ![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=Python)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
 </p>
 
 
