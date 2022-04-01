@@ -11,17 +11,16 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
   ![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
   ![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=Python)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
