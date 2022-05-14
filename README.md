@@ -33,16 +33,16 @@
 
 <p align="left" style="background:yellow">
 <a href="https://bit.ly/3xTqpY3" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=tryhackme" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="codepen"/>
 </a>
-<a href="https://twitter.com/nosferatuvjr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://discord.gg/xWaAhBRxz6" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/vivald0x6f" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/vivald0x6f" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-1997vjr-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://bit.ly/3EJC90B" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="youtube"/>
