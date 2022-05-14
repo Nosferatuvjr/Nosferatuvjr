@@ -34,7 +34,7 @@
 
   ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
-  ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)
+  ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
   ![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
   ![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
