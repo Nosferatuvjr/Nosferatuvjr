@@ -32,8 +32,8 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.facebook.com/jr.vivaldo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=facebook" alt="codepen"/>
+<a href="https://bit.ly/3xTqpY3" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=tryhackme" alt="codepen"/>
 </a>
 <a href="https://twitter.com/nosferatuvjr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Nosferatuvjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
@@ -44,8 +44,8 @@
 <a href="https://instagram.com/vivald0x6f" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-1997vjr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="youtu.be/waAlgFq9Xq8" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Musiquinha-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://bit.ly/3EJC90B" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="youtube"/>
 </a>
 </p>
 
