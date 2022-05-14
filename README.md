@@ -32,15 +32,15 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)&nbsp;
-  ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-  ![ShellScript](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=bash)
-  ![Ruby](https://img.shields.io/badge/-Ruby-05122a?style=flat&logo=Ruby)&nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-05122a?style=flat&logo=php)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=Python)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122a?style=flat&logo=TypeScript)&nbsp;
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+  ![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
