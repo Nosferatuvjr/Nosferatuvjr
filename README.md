@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vivaldo Chagas! :D</h1>
+<h1 align="left">Hello 😈, I'm Vivaldo Chagas! :D</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nosferatuvjr&color=yellow" alt="Profile views" /> </p>
 
 - Developer and Security Researcher.
