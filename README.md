@@ -6,6 +6,8 @@
 
 - Pentester & Bug hunter
 
+- CTF Player
+
 ## 🛠 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
