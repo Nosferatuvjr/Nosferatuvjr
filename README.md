@@ -4,7 +4,7 @@
 
 - Developer and Security Researcher.
 
-- DevOps :v & Bug hunter
+- Pentester :v & Bug hunter
 
 - CTF Player
 
