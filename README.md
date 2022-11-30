@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/vivald0x6f" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/vivald0x6f" target="_blank">
+<a href="https://instagram.com/nosferatu.vjr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
