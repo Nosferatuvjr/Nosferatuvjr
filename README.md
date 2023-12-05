@@ -47,6 +47,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/top-langs/api?username=Nosferatuvjr&show_icons=true&theme=vision-friendly-dark" alt="Nosferatuvjr's stats"/>
 </p>
 
